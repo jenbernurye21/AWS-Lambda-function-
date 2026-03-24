@@ -1,5 +1,6 @@
 </> Bash
 Deployment Commands
+
 terraform init
 
 terraform plan
